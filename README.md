@@ -20,3 +20,7 @@ TODO: Once this board definition is pulled into the Adafruit repo, change link t
 
 **v1.6**
 * Minor cosmetic changes to accomidate 'Status' label.
+
+**v1.7**
+* Fixed potential manufacturing limitation with ground vias.
+
