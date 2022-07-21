@@ -3873,7 +3873,7 @@
     (uuid 8337b7f2-9099-4db8-9f9b-0f8820b9d737)
     (property "Reference" "TP1" (id 0) (at 36.068 220.98 90))
     (property "Value" "TestPoint" (id 1) (at 36.068 223.52 90))
-    (property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm" (id 2) (at 39.37 222.25 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 39.37 222.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 39.37 222.25 0)
@@ -4239,7 +4239,7 @@
     (uuid bf6723a1-f7a8-4f2e-8937-15d1f9150ef9)
     (property "Reference" "TP2" (id 0) (at 36.068 223.52 90))
     (property "Value" "TestPoint" (id 1) (at 36.068 226.06 90))
-    (property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm" (id 2) (at 39.37 224.79 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 39.37 224.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 39.37 224.79 0)
@@ -4861,10 +4861,10 @@
       (reference "SW2") (unit 1) (value "KMS233GLFG") (footprint "MINI_SAM_D51_r025_b001:KMS_SWITCH")
     )
     (path "/8337b7f2-9099-4db8-9f9b-0f8820b9d737"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/bf6723a1-f7a8-4f2e-8937-15d1f9150ef9"
-      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/8642366e-14d5-4a4a-acc5-de8c0e7dc7d5"
       (reference "U1") (unit 1) (value "RP2040") (footprint "Library:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm")
