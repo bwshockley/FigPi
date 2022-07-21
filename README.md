@@ -3,6 +3,10 @@ Minifigure sized RP2040 based development board.
 
 This has not been tested.  I have ordered prototype boards, so if you use this repo, please be prepared to have things not work.
 
+## Board Definition for CircuitPython
+Fig Pi Board Definition - Local(https://github.com/bwshockley/circuitpython/tree/bwshockley-figpi/ports/raspberrypi/boards/bwshockley_figpi)
+TODO: Once this board definition is pulled into the Adafruit repo, change link to the Adafruit repo.
+
 ## Changelog
 **v1.1**
 * Attached USB_BOOT to GPIO20, Pin 31
