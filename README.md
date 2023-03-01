@@ -24,3 +24,5 @@ TODO: Once this board definition is pulled into the Adafruit repo, change link t
 **v1.7**
 * Fixed potential manufacturing limitation with ground vias.
 
+**v2.1**
+* Significant layout change to fix errors, move to mostly 0402 size passives, DFM, and more.
