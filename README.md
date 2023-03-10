@@ -26,3 +26,6 @@ TODO: Once this board definition is pulled into the Adafruit repo, change link t
 
 **v2.1**
 * Significant layout change to fix errors, move to mostly 0402 size passives, DFM, and more.
+
+**v2.2**
+* Updated the stemma connectors (i2c).  Pins were swapped - fixed the order.
