@@ -29,3 +29,6 @@ TODO: Once this board definition is pulled into the Adafruit repo, change link t
 
 **v2.2**
 * Updated the stemma connectors (i2c).  Pins were swapped - fixed the order.
+
+**v2.3**
+* Minor updates to routing, cleanup of vias, additional DRC checks.  Added silkscreen details.
