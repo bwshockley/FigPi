@@ -27,3 +27,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Production Files
+production/
+
+# Board 2 PDF files
+*.config.ini
