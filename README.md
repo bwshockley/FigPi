@@ -32,3 +32,6 @@ TODO: Once this board definition is pulled into the Adafruit repo, change link t
 
 **v2.3**
 * Minor updates to routing, cleanup of vias, additional DRC checks.  Added silkscreen details.
+
+**v2.3.1**
+* Modified the silkscreen label from QWIIC0 and QWIIC1 to I2C0 and I2C1
